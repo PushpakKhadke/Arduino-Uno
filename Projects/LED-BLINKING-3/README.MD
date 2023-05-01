@@ -30,7 +30,7 @@ Here are the steps to follow: anode
 
 1. Connect the cathode (negative) leg to the ground (GND) pin on the Arduino and the anode (positive) leg to a 220 ohm resistor. Then connect the other end of the LED    to digital pin 13 on the Arduino. 
 
-2. Connect one leg of the push button to digital pin 2 on the Arduino, and the other leg to the ground (GND) pin on the Arduino.
+2. Connect one leg of the push button to digital pin 2 on the Arduino, and the other leg to the ground (GND) Pin on the Arduino.
 
 3. Connect one end of a jumper wire to the same row as the push button leg connected to digital pin 2. Connect the other end of this jumper wire to the 5V pin on the      Arduino.
 
