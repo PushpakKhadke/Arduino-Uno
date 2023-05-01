@@ -1,5 +1,5 @@
 # Project 02 ( Led Blinking Using Push Button )
-[Live-In-Production Demo]()_________________________________________ _Individual Project | Duration: 20 Minutes_ <br>
+[Live-In-Production Demo](https://www.tinkercad.com/things/3H7wpXRHXDJ)_________________________________________ _Individual Project | Duration: 30 Minutes_ <br>
 - This is a basic Led Blinking using push button Project using Arduino.
 
 ## 👨‍💻 Tech Stack
@@ -16,19 +16,29 @@ Tools : `Arduino IDE`
 
 
 ## ☑️ Working
-1. Gather the necessary components, including 5 to 6 LEDs, resistors, breadboard, jumper wires, and an Arduino board.
 
-2. Connect the positive leg of each LED to a digital pin of the Arduino board, and connect the negative leg of each LED to a common ground.
+To make an LED blink using a push button and an Arduino, you will need the following components:
 
-3. Insert a resistor in series with each LED to limit the current flowing through it.
+- Arduino board
+- Breadboard
+- LED
+- Push button
+- Resistor (220 ohms)
+- Jumper wires
 
-4. Write a code in the Arduino IDE that will turn on all the digital pins connected to the LEDs, wait for a specified amount of time, and then turn them off.
+Here are the steps to follow: anode
 
-5. Upload the code to the Arduino board using a USB cable.
+1. Connect the cathode (negative) leg to the ground (GND) pin on the Arduino and the anode (positive) leg to a 220 ohm resistor. Then connect the other end of the LED    to digital pin 13 on the Arduino. 
 
-6. The Arduino board will execute the code and turn on all the LEDs simultaneously.
+2. Connect one leg of the push button to digital pin 2 on the Arduino, and the other leg to the ground (GND) pin on the Arduino.
 
-7. The code will then wait for a specified amount of time, turn off all the LEDs, and repeat the cycle.
+3. Connect one end of a jumper wire to the same row as the push button leg connected to digital pin 2. Connect the other end of this jumper wire to the 5V pin on the      Arduino.
+
+4. Upload the code to your Arduino board:
+
+5. Once you have uploaded the code, press and release the push button to turn the LED on and off.
+
+That's it! Your LED should now blink when you press the push button.
 
 
 ## 📷 Screenshot
