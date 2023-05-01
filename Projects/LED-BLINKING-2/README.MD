@@ -29,7 +29,7 @@ Tools : `Arduino IDE`
 
 5. Upload the code to the Arduino board using a USB cable.
 
-6. The Arduino board will execute the code and turn on all the LEDs simultaneously.
+6. The Arduino board will execute the code and turn on all the LEDs Simultaneously.
 
 7. The code will then wait for a specified amount of time, turn off all the LEDs, and repeat the cycle.
 
