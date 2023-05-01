@@ -26,6 +26,6 @@ Tools : `Arduino IDE`
 
 ## 📷 Screenshot
 
-<img src="./LED_BLINKING alt="Output">
+<img src="LED_BLINKING alt="Output">
 
 
