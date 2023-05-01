@@ -28,9 +28,5 @@ Tools : `Arduino IDE`
 
 ### Pc:
 
-<img src="./" alt="Output">
-
-### Mobile:
-
-<img src="./Mobile.png" alt="Output">
+<img src="./LED_BLINKING.png" alt="Output">
 
