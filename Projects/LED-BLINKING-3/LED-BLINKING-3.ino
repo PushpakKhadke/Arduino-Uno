@@ -1,6 +1,6 @@
 int ledPin = 13; // LED connected to digital pin 13
 int buttonPin = 2; // push button connected to digital pin 2
-int buttonState = 0; // variable to store the button state
+int buttonState = 1; // variable to store the button state
 
 void setup() {
   pinMode(ledPin, OUTPUT); // initialize the LED pin as an output
